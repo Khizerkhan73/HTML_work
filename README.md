@@ -1,4 +1,4 @@
 # personal
-this is my web assignment
+this is for my practice.
 <br>
 author - Khizer khan
